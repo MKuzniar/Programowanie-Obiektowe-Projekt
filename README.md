@@ -1,1 +1,2 @@
-# Programowanie-Obiektowe-Projekt
+# Programowanie Obiektowe - Projekt
+Rocket Launch Simulation
